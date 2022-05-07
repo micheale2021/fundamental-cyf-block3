@@ -1,0 +1,9 @@
+let element_banana = document.getElementById('banana');
+element_banana.style.color = '#ffff33';
+element_banana.style.backgroundColor = '#999999';
+let element_apple = document.getElementById('apple');
+element_apple.style.color = '#ff0000';
+element_apple.style.backgroundColor = '#cccccc';
+let element_strawberry = document.getElementById('strawberry');
+element_strawberry.style.color = '#6633ff';
+element_strawberry.style.backgroundColor = '#ffcc99';
